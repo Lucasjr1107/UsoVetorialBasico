@@ -18,7 +18,7 @@ namespace vetores_nome_e_idade
 
             for (int i = 0; i < nomes.Length; i++)
             {
-                Console.Write("Escreva um nome: ");
+                Console.Write("Escreva um nome por favor: ");
                 nomes[i] = Console.ReadLine();
 
                 Console.Write("Solicite uma idade: ");
